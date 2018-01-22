@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {II}Methods}{1}{section.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Participants}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Instruments}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}Procedures}{2}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-C}1}Pod-podnaslov ovde}{2}{subsubsection.2.3.1}
+\contentsline {section}{\numberline {III}Results}{2}{section.3}
+\contentsline {section}{\numberline {IV}Discussion}{4}{section.4}
+\contentsline {section}{Prilog\nobreakspace {}A: Proof of the First Zonklar Equation}{4}{section*.2}
+\contentsline {section}{Prilog\nobreakspace {}B}{4}{section*.3}
+\contentsline {section}{References}{4}{section*.5}
